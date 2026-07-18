@@ -35,3 +35,6 @@ Dados de desempenho e design de automóveis (extraídos da revista *Motor Trend*
 | **am** | Tipo de câmbio (0 = automático, 1 = manual) |
 | **gear** | Número de marchas à frente |
 | **carb** | Número de carburadores |
+
+
+Modelo de referência: https://github.com/jerfsonbruno/ModeloUFCG
