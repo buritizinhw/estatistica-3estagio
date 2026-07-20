@@ -12,11 +12,9 @@ professores:
 # use letras para afiliacao
 # substitua "[Nome do Aluno]" pelos nomes dos ate 3 integrantes da equipe
 author:
-  - name: "[Nome do Aluno]"
+  - name: "Lívia Carvalho Pereira Buriti"
     affiliation: a
-  - name: "[Nome do Aluno]"
-    affiliation: a
-  - name: "[Nome do Aluno]"
+  - name: "Luiza Oliveira de Carvalho"
     affiliation: a
 address:
   - code: a
